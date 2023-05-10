@@ -7,6 +7,7 @@ subtitle: UX Researcher at FBK
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p>FBK - Bruno Kessler Foundation</p>
     <p>Via Sommarive, 18. Trento - Italy 🇮🇹</p>
